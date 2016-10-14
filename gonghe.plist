@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>csgrid.zhishan</string>
+				<string>gonghe.csgrid.cn</string>
 				<key>bundle-version</key>
-				<string>1.2</string>
+				<string>1.4</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>共和通</string>
+				<string>直联云</string>
 			</dict>
 		</dict>
 	</array>
