@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>csgrid.zhishan</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>址山通</string>
+				<string>址山通(测试)</string>
 			</dict>
 		</dict>
 	</array>
