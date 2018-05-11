@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://api.csgrid.cn/bundle/iphone/jeean/jeean_v1.1.5.ipa</string>
+					<string>http://service.jeean.cn/bundle/app/safeent/jeean_v1.1.5.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>jianbaoxian.csgrid.cn</string>
+				<string>jeeanCompany.csgrid.cn</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
