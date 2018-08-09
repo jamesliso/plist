@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://service.test.jeean.cn/bundle/app/safeinsure/jeean_test_v1.22.ipa</string>
+					<string>http://service.test.jeean.cn/bundle/app/safeinsure/jeean_test_v1.3.1.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>极安保险-测试版V1.22</string>
+				<string>极安保险-测试版V1.3.1</string>
 			</dict>
 		</dict>
 	</array>
